@@ -1,6 +1,6 @@
 ## Hi, I'm Madalina 👋
 
-Software Developer at **Siemens Energy**, Bucharest — part of a global team building 
+Software Developer at **Siemens Energy**, Bucharest - part of a global team building 
 TMS (Terminal Management System), an industrial platform for oil & gas distribution terminals.
 
 Previously worked on **Charisma ERP** at TotalSoft, across modules like transport compliance, 
