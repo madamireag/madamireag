@@ -35,8 +35,7 @@ C# cross-platform app built with .NET MAUI.
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madalina%20Mireag-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madalina-andreea-mireag/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madalina%20Mireag-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madalina-mireag)
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madamireag&show_icons=true&hide_border=true&hide_title=true&count_private=true)](https://github.com/madamireag)
