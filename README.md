@@ -11,6 +11,7 @@ ASP.NET Core, and some Angular on the frontend side.
 ### Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat&logo=windows&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -18,19 +19,14 @@ ASP.NET Core, and some Angular on the frontend side.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 ---
 
 ### About the repos here
 Professional work lives in private repositories. What's public here are university 
-and personal projects — spanning C#, .NET MAUI, ASP.NET Core, React, Angular, 
+and personal projects - spanning C#, .NET MAUI, ASP.NET Core, React, Angular, 
 and Android (Java).
 
 ---
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madalina%20Mireag-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madalina-mireag)
-
----
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madamireag&hide_border=true&layout=compact)](https://github.com/madamireag)
